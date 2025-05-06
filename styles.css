@@ -648,7 +648,8 @@ footer .even-columns>div:nth-child(3) .copyright1 {
     .numbered-items p{
         grid-column: 2 / -1;
     }
-} *//* carousel */
+} */
+/* carousel */
 #carousel button{
     text-align: center;
     display: block;
