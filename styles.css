@@ -644,11 +644,6 @@ footer .even-columns>div:nth-child(3) .copyright1 {
     padding: var(--size-200) var(--size-500);
     border-radius: 100vw;
 }
-/* @media (min-width: 46em){
-    .numbered-items p{
-        grid-column: 2 / -1;
-    }
-} */
 /* carousel */
 #carousel button{
     text-align: center;
@@ -736,5 +731,5 @@ footer .even-columns>div:nth-child(3) .copyright1 {
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-        }
-    }
+       }
+}
